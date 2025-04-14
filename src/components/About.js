@@ -1,6 +1,10 @@
 import React from "react";
+<<<<<<< HEAD
 import { image } from "../data/user";
 
+=======
+import {image } from "../data/user";
+>>>>>>> d97dd4b (add)
 function About() {
   return (
     <div id="about">
@@ -10,4 +14,8 @@ function About() {
     </div>
   );
 }
+<<<<<<< HEAD
 export default About;
+=======
+export default About
+>>>>>>> d97dd4b (add)
